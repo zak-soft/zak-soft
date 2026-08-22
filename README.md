@@ -79,9 +79,6 @@ Interactive real-time object recognition application using **MobileNet SSD**, Op
 ---
 
 ## 📚 Currently Learning
-
-* Advanced .NET & Software Architecture
-* Microservices
 * Cloud & DevOps
 * Generative AI & AI Agents
 * Cybersecurity
